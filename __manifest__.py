@@ -1,5 +1,5 @@
 {
-    'name': 'Filter In-Stock Variants',
+    'name': 'Filter In_Stock Variants',
     'version': '19.0.1.0.0',
     'category': 'Website',
     'summary': 'Auto-select in-stock product variant as default on website',
@@ -11,7 +11,7 @@
         variants are out of stock.
     """,
     'author': 'Implefy AB',
-    'website': 'https://github.com/Implefy-AB/filter-instock-variants',
+    'website': 'https://github.com/Implefy_AB/filter_instock_variants',
     'license': 'LGPL-3',
     'depends': ['website_sale_stock'],
     'data': [],
